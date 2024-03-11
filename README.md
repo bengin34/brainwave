@@ -1,8 +1,5 @@
-# React + Vite
+# Brainwave 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An example of Bento Grid Design
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![brainwave](https://github.com/bengin34/brainwave/assets/118957608/5a015718-5aba-457f-8ecc-53943227a392)
